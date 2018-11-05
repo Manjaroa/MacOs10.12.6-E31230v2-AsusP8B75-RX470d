@@ -31,3 +31,7 @@
 - clover设置
     KextsToPatch : Enable TRIM for SSD
 
+###最终成果
+文件：CLOVER备份(华硕P8B75+E31230V2+RX470d).zip
+链接: https://pan.baidu.com/s/1vn3iy7m8p7d6k77dXVcdVg 提取码: qgy2
+将CLOVER文件夹放入ESP引导分区，即可完美驱动。
